@@ -27,5 +27,13 @@
     <ClCompile Include="WebStructureAnalyzer.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="WebAnalyzer.cpp">
+      <Filter>02_BusinessLogic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WebAnalyzer.h">
+      <Filter>02_BusinessLogic</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
